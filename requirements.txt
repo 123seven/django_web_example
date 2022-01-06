@@ -14,7 +14,7 @@ mysqlclient
 redis
 
 # Celery
-celery==4.4.0
+celery==5.2.2
 
 # Logging
 loguru
